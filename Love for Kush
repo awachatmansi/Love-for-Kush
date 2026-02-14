@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Only For Kush❤️</title>
+<title>Only For Kushuu❤️</title>
 
 <style>
 body {
@@ -71,7 +71,7 @@ img {
 
 <!-- PASSWORD PAGE -->
 <div id="passwordPage" class="page" style="display:block;">
-    <h2>🔒 Only Kush Can Open This 🔒</h2>
+    <h2>🔒 Only Kushuu Can Open This 🔒</h2>
     <input type="password" id="password" placeholder="Enter Password">
     <br><br>
     <button onclick="checkPassword()">Unlock ❤️</button>
@@ -85,7 +85,7 @@ img {
 
 <!-- LOVE PAGE -->
 <div id="lovePage" class="page">
-    <h1>Kush ❤️ Gulaboo</h1>
+    <h1>Kushuu ❤️ Gulaboo</h1>
     <p>
     Every second with you is a celebration;  
     you are the spark that makes my world so much brighter!!! 🧿🤍
